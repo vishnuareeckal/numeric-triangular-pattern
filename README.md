@@ -1,0 +1,1 @@
+# numeric-triangular-pattern
